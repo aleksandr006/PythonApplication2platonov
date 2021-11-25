@@ -1,7 +1,7 @@
 from PythonApplication2platonov import*
 from module1 import*
-users=loe_failist_listisse("users.txt")
-passwords=loe_failist_listisse("passwords.txt")
+users=loe_failist_listisse("TextFile2.txt")
+passwords=loe_failist_listisse("TextFile3.txt")
 password=passauto()
 print(password)
 while True:
